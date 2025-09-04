@@ -34,4 +34,4 @@ It was challenging to work with Provider and handle the states but after using i
 
 ## Author
 - LinkedIn - [Sahil Bansal](https://www.linkedin.com/in/%F0%9F%8E%AF-sahil-bansal-882b41272/)
-- Twitter - [@Sahil121315](https://x.com/Sahil121315?t=91yHYBDE2vjBnehGdAjZ0Q&s=09)
+- Twitter - [sahilbansall121](https://x.com/sahilbansall121)
